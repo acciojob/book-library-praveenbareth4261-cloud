@@ -1,1 +1,38 @@
 /*  your css code here. If applicable */
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+body{
+	background-color:#f8f8f8;
+}
+.book-library{
+	background-color: #ffffff;
+	text-align: center;
+}
+.book-library h1{
+	text-align: center;
+	font-size: 22px;
+}
+.book h1{
+	margin-bottom: 0px;
+	text-align:left;
+	font-size: 16px;
+}
+.book img{
+	margin-top: 30px;
+}
+.book p{
+	text-align: left;
+	font-size: 13px;
+	color: #777777;
+}
+.btn{
+	background-color: #2ecc71;
+	width: 100%;
+	color: white;
+	padding: 5px;
+	border-radius: 4px;
+	border: none;
+}
